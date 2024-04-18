@@ -1,0 +1,2 @@
+Construa um programa que calcule: Você tem uma lista de preços de produto, todos os produtos acima de R$5.000 vão ser reajustados em 5% 
+e todos abaixo de R$5.000 vão ser reajustados em 10%, como ficam os preços dos produtos?

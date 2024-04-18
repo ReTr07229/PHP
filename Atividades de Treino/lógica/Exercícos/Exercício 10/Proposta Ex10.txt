@@ -1,0 +1,4 @@
+Construa um programa para:
+	-Calcular o salário dos funcionários com reajuste de 10% (a partir de uma lista de salários)
+	-Calcular o custo total de salários que o RH vai ter que pagar
+	-Calcular a diferença em R$ entre o cenário anterior e o cenário atual
