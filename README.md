@@ -1,3 +1,3 @@
-# Luiz's PHP Repository
+# Repositório PHP 
 
-Repository focused on storing all my php files, used for both studies and projects.
+Repositório com o foco de armazenar todos os meus arquivos php, tanto os de estudo, quanto projetos.
